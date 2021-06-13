@@ -76,7 +76,7 @@ def crawl_rating(itemid, shopid):
     rating_total = json.loads(reponse.text)[
         "data"]["item_rating_summary"]["rating_total"]
 
-    rating_star, comment, variations, price = [], [], [], [], []
+    rating_star, comment, variations, price = [], [], [], []
 
     for i in range(0, int(rating_total/6) + 1, 6):
         reponse = requests.get(rating_url.format(
