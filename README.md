@@ -1,6 +1,6 @@
 # Crawl-skincare-product
 
-product info of 50 pages (2504 products)
+product info of 50 pages (2500 products)
 
 ## Part 1: 
     0 - 499
@@ -11,4 +11,4 @@ product info of 50 pages (2504 products)
 ## Part 4:
     1500 - 1999
 ## Part 5:
-    2000 - 2503
+    2000 - 2499
