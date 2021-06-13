@@ -1,11 +1,6 @@
-from os import name
-from bs4 import BeautifulSoup
-from numpy.core.fromnumeric import product
 import pandas as pd
 import requests
 import json
-import csv
-import numpy as np
 
 product_in_page_url = "https://shopee.vn/api/v4/search/search_items?by=relevancy&limit=50&match_id=2341&newest={}&order=desc&page_type=search&scenario=PAGE_OTHERS&version=2"
 rating_url = "https://shopee.vn/api/v2/item/get_ratings?filter=0&flag=1&itemid={}&limit=6&offset={}&shopid={}&type=0"
