@@ -84,12 +84,13 @@ def crawl_rating(itemid, shopid):
         print("\tCrawl comments in page {}!".format(i), end=" ")
         if (check_status(reponse) != True):
             break
-
-        for j in range(6):
-            rating_items = json.loads(reponse.text)["data"]["ratings"][j]
-            rating_star.append(rating_items["rating_star"])
-            comment.append(rating_items["comment"])
-            product_items = rating_items["product_items"]
+        
+        rating_items = json.loads(reponse.text)["data"]["ratings"]
+        for j in range(len(rating_items)):
+            ratings = rating_items[j]
+            rating_star.append(ratings["rating_star"])
+            comment.append(ratings["comment"])
+            product_items = ratings["product_items"]
             sub_variation, sub_price = [], []
             for k in range(len(product_items)):
                 sub_variation.append(product_items[k]["model_name"])
