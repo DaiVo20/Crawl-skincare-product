@@ -76,7 +76,7 @@ def crawl_rating(itemid, shopid):
     rating_total = json.loads(reponse.text)[
         "data"]["item_rating_summary"]["rating_total"]
 
-    rating_star, comment, variations, price, has_video_image = [], [], [], [], []
+    rating_star, comment, variations, price = [], [], [], [], []
 
     for i in range(0, int(rating_total/6) + 1, 6):
         reponse = requests.get(rating_url.format(
@@ -89,14 +89,6 @@ def crawl_rating(itemid, shopid):
             rating_items = json.loads(reponse.text)["data"]["ratings"][j]
             rating_star.append(rating_items["rating_star"])
             comment.append(rating_items["comment"])
-
-            has_image = len(rating_items["images"])
-            has_videos = len(rating_items["videos"])
-            if (has_image == 0 and has_videos == 0):
-                has_video_image.append(0)
-            else:
-                has_video_image.append(1)
-
             product_items = rating_items["product_items"]
             sub_variation, sub_price = [], []
             for k in range(len(product_items)):
@@ -105,9 +97,9 @@ def crawl_rating(itemid, shopid):
             variations.append(sub_variation)
             price.append(sub_price)
 
-    col = ["variations", "price", "has_video_image", "rating_star", "comment"]
+    col = ["variations", "price", "rating_star", "comment"]
     ratings_cmt = pd.DataFrame(data=list(
-        zip(variations, price, has_video_image, rating_star, comment)), columns=col)
+        zip(variations, price, rating_star, comment)), columns=col)
     file_name = "{},{}.csv".format(itemid, shopid)
     ratings_cmt.to_csv("./cmt_ratings/{}".format(file_name), index=False)
 
@@ -126,5 +118,5 @@ if __name__ == "__main__":
     shopid = products["shopid"].to_numpy()
     name = products["name"].to_numpy()
     for i in range(n_b, n_e+1):
-        print(i+1, name[i])
+        print(i, name[i])
         crawl_rating(itemid[i], shopid[i])
