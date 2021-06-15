@@ -1,3 +1,7 @@
+"""
+    Remove unusual file in cmt_ratings folder
+
+"""
 import pandas as pd
 import os
 import glob
