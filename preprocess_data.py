@@ -19,6 +19,8 @@ def replace_char(arg, characters):
         arg = arg.replace(c, "")
     return arg
 
+raw_data=pd.concat([pd.read_csv(f) for f in csv_files])
+raw_data.to_csv("raw_data.csv", index=False, encoding='utf-8')
 
 full_data = []
 # Clean data
@@ -48,8 +50,8 @@ combined_csv = pd.DataFrame(data=dataset, columns=[
                             "variations", "price", "rating_star", "comments"])
 
 # export to csv
-combined_csv.to_csv("combined_file.csv", index=False, encoding='utf-8')
+combined_csv.to_csv("pre_data.csv", index=False, encoding='utf-8')
 
 # export to txt
-np.savetxt("combined_file.txt", dataset, fmt=[
+np.savetxt("pre_data.txt", dataset, fmt=[
            '%s', '%d', '%d', '%s'], delimiter="\t", encoding='utf-8')
