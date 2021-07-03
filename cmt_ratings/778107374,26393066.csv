@@ -1,7 +1,7 @@
-variations,price,rating_star,comment
-['MANUKAHONEY'],[1800000000],5,Sp gói chắc chắn oki sẽ ủng hộ thêm . giao nhanh chất lượng ổn chưa dùng thử 
-['ROSE'],[1700000000],5,
-"['POMEGRANATE', 'ROSE']","[1800000000, 1700000000]",5,
-['MANUKAHONEY'],[1800000000],5,
-['NHA ĐAM'],[1800000000],5,
-"['MANUKAHONEY', 'NHA ĐAM']","[1800000000, 1800000000]",5,
+name,variations,price,rating_star,comment
+MẶT NẠ GIẤY INNISFREE NEW 2017,['MANUKAHONEY'],[1800000000],5,Sp gói chắc chắn oki sẽ ủng hộ thêm . giao nhanh chất lượng ổn chưa dùng thử 
+MẶT NẠ GIẤY INNISFREE NEW 2017,['ROSE'],[1700000000],5,
+MẶT NẠ GIẤY INNISFREE NEW 2017,"['POMEGRANATE', 'ROSE']","[1800000000, 1700000000]",5,
+MẶT NẠ GIẤY INNISFREE NEW 2017,['MANUKAHONEY'],[1800000000],5,
+MẶT NẠ GIẤY INNISFREE NEW 2017,['NHA ĐAM'],[1800000000],5,
+MẶT NẠ GIẤY INNISFREE NEW 2017,"['MANUKAHONEY', 'NHA ĐAM']","[1800000000, 1800000000]",5,

@@ -1,89 +1,89 @@
-variations,price,rating_star,comment
-['1 miếng xanh lá'],[1690000000],5,Mua ở shop nhiều lần ròi shop bán đồ giao hàng oke lắm luôn cưng thiệt sự luôn á
-['1 miếng xanh lá'],[1690000000],5,Mình mua tặng bạn nên không có hình chụp mn thông cảm. Chất lượng của mask BNBG thì ok lắm nhe
-['1 miếng Vàng'],[1490000000],5,"sản phẩm tốt, giao hàng tạm nhanh, giao đúng hàng, sẽ ủng hộ thêm"
-['1 miếng xanh biển'],[2300000000],5,"Mặt nạ đắp đã lắm, đáng tiền rất đang mua, ưng thật sự, quá okii"
-"['1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[2300000000, 1690000000, 1690000000]",5,Đánh giá mang tính chất nhận xu hoi chứ hàng đẹp ok chuẩn hết bài lun 
-['1 miếng Vàng'],[1690000000],5,"Đóng gói cẩn thận, quá tốt nhưng chưa dùng nên không biết sao🙆🏻‍♂️🙆🏻‍♂️🙆🏻‍♂️"
-"['1 miếng xanh biển', '1 miếng Vàng']","[2100000000, 1490000000]",5,Vbnk vhhxxhjcxdhkbxzdhjbczsgjkbcssrhjnvzzdhbxzsghbcxfnvcvnb xxgzdj
-['1 miếng Vàng'],[1690000000],5,
-"['1 miếng đỏ', '1 miếng xanh lá']","[1490000000, 1490000000]",5,"Mặt nạ này mình dùng mấy năm rồi ạ, rất ổn, dưỡng ẩm tốt, giá ok. "
-['1 miếng đỏ'],[1690000000],5,Shop gói hàng rất kĩ càng nhé! Mặt nạ thì sài bao phê r ạ. Mua kẹp với son để có mã mpvc 😜
-['1 miếng Vàng'],[1690000000],5,"Hàng đẹp , giá rẻ mọi người nên mua nha . Nhưng mà son màu hong đẹp á"
-"['1 miếng xanh biển', '1 miếng xanh lá']","[1690000000, 1690000000]",5,giao hàng nhanh lắm ạ dù bị lỗi 1 xíu nhưng shop giải quyết gọn lẹ lắm ạ
-['1 miếng xanh lá'],[1590000000],5,"Mua rất nhiền đơn bên shop, uy tín, sản phẩm chất lượng luôn. Lần này vào vote để lấy xu thôi "
-['1 miếng xanh biển'],[1690000000],5,Shop giao hàng nhanh lắm ạaa hàng xinh và chất lượng nói chung ok lắm luônnn
-"['1 miếng đỏ', '1 miếng xanh biển']","[1590000000, 1590000000]",5,"Lười chụp nên lấy ảnh không liên quan, mask này dùng nhiều rùi ,cảm thấy rất thích 👍"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1650000000, 1650000000, 1650000000, 1650000000]",5,"Hàng chất lượng. Mua hàng của shop hài lòng. Chúc shop buôn bán đắt nhé ❤️
+name,variations,price,rating_star,comment
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh lá'],[1690000000],5,Mua ở shop nhiều lần ròi shop bán đồ giao hàng oke lắm luôn cưng thiệt sự luôn á
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh lá'],[1690000000],5,Mình mua tặng bạn nên không có hình chụp mn thông cảm. Chất lượng của mask BNBG thì ok lắm nhe
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1490000000],5,"sản phẩm tốt, giao hàng tạm nhanh, giao đúng hàng, sẽ ủng hộ thêm"
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[2300000000],5,"Mặt nạ đắp đã lắm, đáng tiền rất đang mua, ưng thật sự, quá okii"
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[2300000000, 1690000000, 1690000000]",5,Đánh giá mang tính chất nhận xu hoi chứ hàng đẹp ok chuẩn hết bài lun 
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1690000000],5,"Đóng gói cẩn thận, quá tốt nhưng chưa dùng nên không biết sao🙆🏻‍♂️🙆🏻‍♂️🙆🏻‍♂️"
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng Vàng']","[2100000000, 1490000000]",5,Vbnk vhhxxhjcxdhkbxzdhjbczsgjkbcssrhjnvzzdhbxzsghbcxfnvcvnb xxgzdj
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1690000000],5,
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh lá']","[1490000000, 1490000000]",5,"Mặt nạ này mình dùng mấy năm rồi ạ, rất ổn, dưỡng ẩm tốt, giá ok. "
+MẶT NẠ VITAMIN BNBG,['1 miếng đỏ'],[1690000000],5,Shop gói hàng rất kĩ càng nhé! Mặt nạ thì sài bao phê r ạ. Mua kẹp với son để có mã mpvc 😜
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1690000000],5,"Hàng đẹp , giá rẻ mọi người nên mua nha . Nhưng mà son màu hong đẹp á"
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng xanh lá']","[1690000000, 1690000000]",5,giao hàng nhanh lắm ạ dù bị lỗi 1 xíu nhưng shop giải quyết gọn lẹ lắm ạ
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh lá'],[1590000000],5,"Mua rất nhiền đơn bên shop, uy tín, sản phẩm chất lượng luôn. Lần này vào vote để lấy xu thôi "
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1690000000],5,Shop giao hàng nhanh lắm ạaa hàng xinh và chất lượng nói chung ok lắm luônnn
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển']","[1590000000, 1590000000]",5,"Lười chụp nên lấy ảnh không liên quan, mask này dùng nhiều rùi ,cảm thấy rất thích 👍"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1650000000, 1650000000, 1650000000, 1650000000]",5,"Hàng chất lượng. Mua hàng của shop hài lòng. Chúc shop buôn bán đắt nhé ❤️
 "
-['1 miếng Vàng'],[1590000000],5,Xjđkdkjdndkdkdmndkjxnxidnmdkdmxnndndn ok nhahehhshshjsjsjjsjsjsjs
-['1 miếng xanh biển'],[1650000000],5,"Shop giao hàng nhanh, giá cả phải chăng. Mình thấy được rất nhiều người khen. Mình chưa dùng thử nhưng hi vọng sẽ okay!"
-"['1 miếng đỏ', '1 miếng Vàng']","[1650000000, 1650000000]",5,"Giao hàng nhanh, giao đầy đủ, đóng gói cẩn thận, chất lượng chưa sd nên chưa biết"
-['1 miếng đỏ'],[1600000000],5,"sản phẩm đúng chất lượng, giá tốt, giao hàng nhanh chóng ❤️❤️❤️"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1650000000, 1650000000, 1650000000, 1650000000]",5,"Đã nhận được hàng , sản phẩm date mới có tem cảm giác rất an tâm về chất lượng, cảm ơn shop!!!"
-['1 miếng Vàng'],[1600000000],5,Hình ảnhang tính chất nhận xu hihihihihihihihihihihuhiihihi
-['1 miếng xanh biển'],[1650000000],5,Đã nhận được đồ. Giao hành nhanh. Đồ dâyd đủ. Chưa kiểm tra từng sản phẩm
-['1 miếng Vàng'],[1600000000],5,"Mua ở đây nhiều lần rồi. Đóng gói đẹp và chắc chắn, có dịp sẽ ủng hộ thêm"
-['1 miếng đỏ'],[1650000000],5,"Giao đủ hàng, xài rồi mới đánb giá dc nha shop"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng xanh lá']","[1550000000, 1550000000, 1550000000]",5,"Shop đóng gói cẩn thận, giao hàng nhanh, sản phẩm tốt. Ủng hộ lâu dài👍 
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1590000000],5,Xjđkdkjdndkdkdmndkjxnxidnmdkdmxnndndn ok nhahehhshshjsjsjjsjsjsjs
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,"Shop giao hàng nhanh, giá cả phải chăng. Mình thấy được rất nhiều người khen. Mình chưa dùng thử nhưng hi vọng sẽ okay!"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng Vàng']","[1650000000, 1650000000]",5,"Giao hàng nhanh, giao đầy đủ, đóng gói cẩn thận, chất lượng chưa sd nên chưa biết"
+MẶT NẠ VITAMIN BNBG,['1 miếng đỏ'],[1600000000],5,"sản phẩm đúng chất lượng, giá tốt, giao hàng nhanh chóng ❤️❤️❤️"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1650000000, 1650000000, 1650000000, 1650000000]",5,"Đã nhận được hàng , sản phẩm date mới có tem cảm giác rất an tâm về chất lượng, cảm ơn shop!!!"
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,Hình ảnhang tính chất nhận xu hihihihihihihihihihihuhiihihi
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,Đã nhận được đồ. Giao hành nhanh. Đồ dâyd đủ. Chưa kiểm tra từng sản phẩm
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,"Mua ở đây nhiều lần rồi. Đóng gói đẹp và chắc chắn, có dịp sẽ ủng hộ thêm"
+MẶT NẠ VITAMIN BNBG,['1 miếng đỏ'],[1650000000],5,"Giao đủ hàng, xài rồi mới đánb giá dc nha shop"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng xanh lá']","[1550000000, 1550000000, 1550000000]",5,"Shop đóng gói cẩn thận, giao hàng nhanh, sản phẩm tốt. Ủng hộ lâu dài👍 
  ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
-['1 miếng xanh biển'],[1650000000],5,"Mặt nạ cấp ẩm tốt ,đắp phê lắm ,nên mua 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍"
-"['1 miếng xanh biển', '1 miếng Vàng']","[1650000000, 1650000000]",5,Ggvvvvvgffggtggffgggggggggvvvbbjjjjjjjhggfdzxcfffcff
-['1 miếng xanh biển'],[1650000000],5,Shop giao hàng nhanh đầy đủ. Còn được tặng thêm 1 cây son kute hột me nữa <33
-"['1 miếng xanh biển', '1 miếng xanh lá']","[1650000000, 1650000000]",5,Chuẩn bị hàng lâu. Đóng gói đẹp và chắc chắn. Chưa sài nên chưa đánh giá được
-"['1 miếng đỏ', '1 miếng Vàng']","[1600000000, 1600000000]",5,"Mua hàng của shop nhiieeu lần rồi , đầy đủ , thích . Cảm ơn sẽ ủng hộ thêm 🤚🤚🤚🤚🤚🤚"
-"['1 miếng xanh biển', '1 miếng Vàng']","[1600000000, 1600000000]",5,Giao đúng hàng đủ hàng. Giao hàng rất nhanh. Hàng auth. Xxxxx
-['1 miếng Vàng'],[1600000000],5,"Nhận được hàng rất nhanh, mặt nạ này mình chưa dùng bao giờ nên chưa biết công dụng, nếu ổn sẽ tiếp tục ủng hộ, thanks shop nhé"
-['1 miếng Vàng'],[1600000000],5,Mua 10 gói và chia cho e gái 1 nửa r. Shop bọc hàng cẩn thận lắm nha. Cảm ơn shop. Giao hàng nhanh nữa
-['1 miếng xanh lá'],[1600000000],5,"Mặt nạ rất tốt, nhiều dưỡng chất. Điểm 10 chất lượng. Giá cả hợp lý là một điểm cộng"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Giao hàng nhanh, sản phẩm chính  hãng nhưng so với giá này thì quá hời......"
-['1 miếng xanh biển'],[1490000000],5,"giao hang nhanh,dong goi san pham dep chac chan,da mua nhieu lan,se luon ung ho shop"
-['1 miếng Vàng'],[1690000000],5,"Mua hàng của shop mấy năm nay rồi! Giao hàng siêu nhanh,gói hàng cẩn thận,date xa. Loại này xài siêu ưng,đối với mình trị thâm siêu hiệu quả,đắp xong da mềm mịn cấp ẩm khá tốt,mùi chanh khá fresh,ko bị châm chích như loại phủ bạc. Mọi người nên thử xem ntn nhé! Ok lắm"
-"['1 miếng đỏ', '1 miếng Vàng']","[1490000000, 1490000000]",5,
-"['1 miếng đỏ', '1 miếng Vàng']","[1690000000, 1690000000]",5,Dùng thích cực luôn ạ
-['1 miếng xanh biển'],[1590000000],5,"giao hang nhanh,dong goi san pham dep chac chan,mua nhieu lan,lan nao cung deu hài lòng,se ung ho shop lau dai"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1650000000, 1650000000, 1650000000, 1650000000]",5,Rất ưng rất ưng. Lần sau sẽ mua lại và ủng hộ nhiều hơn
-['1 miếng xanh biển'],[1650000000],5,Sản phẩm ok 
-"['1 miếng xanh biển', '1 miếng Vàng']","[1590000000, 1590000000]",5,"Sản phẩm xài rất tốt mình đã mua ở đây khá nhiều lần, giá cả bình ổn so với thị trường"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1590000000, 1590000000, 1590000000, 1590000000]",5,Đóng gói hàng tốt
-['1 miếng Vàng'],[1650000000],5,"Rat thich shop. Chuan bi hang nhanh, giá rẻ , mua hang cua shop từ rat lâu rồi đến giờ vẫn tin tưởng "
-['1 miếng xanh biển'],[1650000000],5,BhjbvhnnTbdbnanxsnnznbxnsnznxbdnnsnxbsmnxnxmandbxns
-['1 miếng xanh biển'],[1650000000],5,Mặt nạ xịn
-['1 miếng xanh biển'],[1650000000],5,"thang nao cung mua do ben shop,chat luong luon ok,chua bao gio lam minh that vong ne"
-['1 miếng Vàng'],[1650000000],5,Mua hàng của shop nhiều lần r! Quá ưng giao lại nhanh
-['1 miếng xanh biển'],[1650000000],5,"Mặt nạ chuẩn, đắp bao thích, đắp xong da rất mướt, cảm giác rất mịn và ẩm. Đóng gói cẩn thận."
-['1 miếng xanh biển'],[1550000000],5,"thang nao cung mua ben shop,hihi,tzan giao hang nhanh,dong goi san pham chac chan"
-['1 miếng xanh biển'],[1600000000],5,"Nắp của ckđ nhìn hơi phèn như hàng fake ấy, nhưng biết mua giá thấp thì phải chọn hên xui. Còn son thì s lại có cái tem chưa đc dán ghi ngày sử dụng, mình rất thắc mắc, mùi son bạc hà rất khó chịu k như mình coi review.  Chì kẻ nhìn vỏ mỏng manh k chắc nhìn nó cứ gỉa giả s ấy, k như hàng thật."
-['1 miếng xanh biển'],[1500000000],5,"Da mua lan 3,luon luon hai long ve san pham,se ung ho shop lau dai,"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Mua liền mỗi loại 5 miếng đk shop tặng thêm 1 miếng
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,"Mặt nạ cấp ẩm tốt ,đắp phê lắm ,nên mua 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍"
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng Vàng']","[1650000000, 1650000000]",5,Ggvvvvvgffggtggffgggggggggvvvbbjjjjjjjhggfdzxcfffcff
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,Shop giao hàng nhanh đầy đủ. Còn được tặng thêm 1 cây son kute hột me nữa <33
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng xanh lá']","[1650000000, 1650000000]",5,Chuẩn bị hàng lâu. Đóng gói đẹp và chắc chắn. Chưa sài nên chưa đánh giá được
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng Vàng']","[1600000000, 1600000000]",5,"Mua hàng của shop nhiieeu lần rồi , đầy đủ , thích . Cảm ơn sẽ ủng hộ thêm 🤚🤚🤚🤚🤚🤚"
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng Vàng']","[1600000000, 1600000000]",5,Giao đúng hàng đủ hàng. Giao hàng rất nhanh. Hàng auth. Xxxxx
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,"Nhận được hàng rất nhanh, mặt nạ này mình chưa dùng bao giờ nên chưa biết công dụng, nếu ổn sẽ tiếp tục ủng hộ, thanks shop nhé"
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,Mua 10 gói và chia cho e gái 1 nửa r. Shop bọc hàng cẩn thận lắm nha. Cảm ơn shop. Giao hàng nhanh nữa
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh lá'],[1600000000],5,"Mặt nạ rất tốt, nhiều dưỡng chất. Điểm 10 chất lượng. Giá cả hợp lý là một điểm cộng"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Giao hàng nhanh, sản phẩm chính  hãng nhưng so với giá này thì quá hời......"
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1490000000],5,"giao hang nhanh,dong goi san pham dep chac chan,da mua nhieu lan,se luon ung ho shop"
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1690000000],5,"Mua hàng của shop mấy năm nay rồi! Giao hàng siêu nhanh,gói hàng cẩn thận,date xa. Loại này xài siêu ưng,đối với mình trị thâm siêu hiệu quả,đắp xong da mềm mịn cấp ẩm khá tốt,mùi chanh khá fresh,ko bị châm chích như loại phủ bạc. Mọi người nên thử xem ntn nhé! Ok lắm"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng Vàng']","[1490000000, 1490000000]",5,
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng Vàng']","[1690000000, 1690000000]",5,Dùng thích cực luôn ạ
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1590000000],5,"giao hang nhanh,dong goi san pham dep chac chan,mua nhieu lan,lan nao cung deu hài lòng,se ung ho shop lau dai"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1650000000, 1650000000, 1650000000, 1650000000]",5,Rất ưng rất ưng. Lần sau sẽ mua lại và ủng hộ nhiều hơn
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,Sản phẩm ok 
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng Vàng']","[1590000000, 1590000000]",5,"Sản phẩm xài rất tốt mình đã mua ở đây khá nhiều lần, giá cả bình ổn so với thị trường"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1590000000, 1590000000, 1590000000, 1590000000]",5,Đóng gói hàng tốt
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1650000000],5,"Rat thich shop. Chuan bi hang nhanh, giá rẻ , mua hang cua shop từ rat lâu rồi đến giờ vẫn tin tưởng "
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,BhjbvhnnTbdbnanxsnnznbxnsnznxbdnnsnxbsmnxnxmandbxns
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,Mặt nạ xịn
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,"thang nao cung mua do ben shop,chat luong luon ok,chua bao gio lam minh that vong ne"
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1650000000],5,Mua hàng của shop nhiều lần r! Quá ưng giao lại nhanh
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1650000000],5,"Mặt nạ chuẩn, đắp bao thích, đắp xong da rất mướt, cảm giác rất mịn và ẩm. Đóng gói cẩn thận."
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1550000000],5,"thang nao cung mua ben shop,hihi,tzan giao hang nhanh,dong goi san pham chac chan"
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1600000000],5,"Nắp của ckđ nhìn hơi phèn như hàng fake ấy, nhưng biết mua giá thấp thì phải chọn hên xui. Còn son thì s lại có cái tem chưa đc dán ghi ngày sử dụng, mình rất thắc mắc, mùi son bạc hà rất khó chịu k như mình coi review.  Chì kẻ nhìn vỏ mỏng manh k chắc nhìn nó cứ gỉa giả s ấy, k như hàng thật."
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1500000000],5,"Da mua lan 3,luon luon hai long ve san pham,se ung ho shop lau dai,"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Mua liền mỗi loại 5 miếng đk shop tặng thêm 1 miếng
 Nói chung mặt nạ này mình sài thấy ok lắm nên quyết tâm mua về cho bõ. Ngày nào cũng đắp da mịn dã man. Mua ở ngoài tận 25k/miếng mà shop bán có 16k thuii "
-['1 miếng đỏ'],[1600000000],5,"shop giao hàng nhanh 
+MẶT NẠ VITAMIN BNBG,['1 miếng đỏ'],[1600000000],5,"shop giao hàng nhanh 
 giao đúng mẫu đúng màu 
 đúng mẫu đặt 
 câm ơn shop"
-['1 miếng đỏ'],[1600000000],5,"shop giao hàng nhanh 
+MẶT NẠ VITAMIN BNBG,['1 miếng đỏ'],[1600000000],5,"shop giao hàng nhanh 
 giao đúng mẫu đúng màu 
 đắp mặt nạ xong rồi CHẤM KEM MỤN BÊN SHOPEE: qthiskincare là BÁIBAI MỤN LUÔN ạ💖💖💖"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Giao handg nhanh đóng gói cẩn thận sp coa cả tem
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Giao handg nhanh đóng gói cẩn thận sp coa cả tem
 Chống giả. Sp chưa thử nên k biêt ntn. Tốt sẽ ủng hộ shop tiếp"
-['1 miếng Vàng'],[1600000000],5,Mặt nạ chưa xài nên quên chụp hình. Shop đóng gói hàng cẩn thận. Hàng nói chung là chất lượng
-"['1 miếng xanh biển', '1 miếng Vàng']","[1600000000, 1600000000]",5,"Mặt nạ ok ,dưỡng chất nhiều đắp khá thích nhé ,sẽ mua lại lần sau "
-['1 miếng xanh biển'],[1600000000],5,"Da mua lan 2 cua shop,giao hang nhanh,dong goi san pham chac chan,se tiep tuc ung ho shop "
-['1 miếng xanh biển'],[1600000000],5,"Mặt nạ cấp ẩm rất ổn, tối đắp xong sáng ra da căng mịn đủ ẩm rất thíchh"
-['1 miếng xanh biển'],[1600000000],5,Tối qua mới coi Thưa mẹ con đi vừa đắp mặt nạ. Phim thì hay còn mặt nạ cũng tốt lắm nhé :)))
-"['1 miếng đỏ', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000]",5,"Chất lượng sản phẩm tốt, đóng gói sản phẩm chắc chắn, shop phục vụ tốt, giao hàng nhanh"
-"['1 miếng đỏ', '1 miếng Vàng']","[1600000000, 1600000000]",5,"Mua hàng của shop nhiều lần. Lần nào cũng ưng, giao hàng nhanh, dóng gói cẩn thân, hàng đủ không thiếu, mọi người nên ủng hộ ......  <3 <3 <3 <3"
-"['1 miếng xanh biển', '1 miếng Vàng']","[1550000000, 1550000000]",5,Hxbxbxnxnxjxjxjxjxjxjjcjcjcjjxhshshhxhxhhxhxjhjjjh
-['1 miếng Vàng'],[1600000000],5,"Giao hàng nhanh, mặt nạ loại này mình dùng là ưng nhất, khá vừa với khuôn mặt "
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Mặt nạ dùng mát, miếng cũng mỏng nữa ạ, rất thích màu vàng, cảm ơn shop"
-"['1 miếng đỏ', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000]",5,Giao hàng quá nhanh! Đã mua lần 2
-['1 miếng Vàng'],[1600000000],5,"Đã nhận được đủ và đúng hàng đã đặt, mọi thứ đều OK, cám ơn shop nhé."
-['1 miếng Vàng'],[1600000000],5,"hàng ok, đầy đủ sản phẩm, gói hàng chắc chắn, chất lượng tốt good"
-['1 miếng Vàng'],[1600000000],5,Sản phẩm tốt mặt nạ này thì không có gì để chê nữa a;dlkjkldjklal
-"['1 miếng xanh biển', '1 miếng Vàng']","[1600000000, 1600000000]",5,Jdbdbdbdbdbdbdbdbdbdbbdbddbbdbdbdbdbdbdbdbdbbdbdbdbdbdbdbdbdb
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1550000000, 1550000000, 1550000000, 1550000000]",5,"Hàng chính hãng, đã mua hàng ở shop rất nhiều lần và luôn hài lòng về chất lượng"
-"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Chưa dùng nên không biết
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,Mặt nạ chưa xài nên quên chụp hình. Shop đóng gói hàng cẩn thận. Hàng nói chung là chất lượng
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng Vàng']","[1600000000, 1600000000]",5,"Mặt nạ ok ,dưỡng chất nhiều đắp khá thích nhé ,sẽ mua lại lần sau "
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1600000000],5,"Da mua lan 2 cua shop,giao hang nhanh,dong goi san pham chac chan,se tiep tuc ung ho shop "
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1600000000],5,"Mặt nạ cấp ẩm rất ổn, tối đắp xong sáng ra da căng mịn đủ ẩm rất thíchh"
+MẶT NẠ VITAMIN BNBG,['1 miếng xanh biển'],[1600000000],5,Tối qua mới coi Thưa mẹ con đi vừa đắp mặt nạ. Phim thì hay còn mặt nạ cũng tốt lắm nhé :)))
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000]",5,"Chất lượng sản phẩm tốt, đóng gói sản phẩm chắc chắn, shop phục vụ tốt, giao hàng nhanh"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng Vàng']","[1600000000, 1600000000]",5,"Mua hàng của shop nhiều lần. Lần nào cũng ưng, giao hàng nhanh, dóng gói cẩn thân, hàng đủ không thiếu, mọi người nên ủng hộ ......  <3 <3 <3 <3"
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng Vàng']","[1550000000, 1550000000]",5,Hxbxbxnxnxjxjxjxjxjxjjcjcjcjjxhshshhxhxhhxhxjhjjjh
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,"Giao hàng nhanh, mặt nạ loại này mình dùng là ưng nhất, khá vừa với khuôn mặt "
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Mặt nạ dùng mát, miếng cũng mỏng nữa ạ, rất thích màu vàng, cảm ơn shop"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000]",5,Giao hàng quá nhanh! Đã mua lần 2
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,"Đã nhận được đủ và đúng hàng đã đặt, mọi thứ đều OK, cám ơn shop nhé."
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,"hàng ok, đầy đủ sản phẩm, gói hàng chắc chắn, chất lượng tốt good"
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,Sản phẩm tốt mặt nạ này thì không có gì để chê nữa a;dlkjkldjklal
+MẶT NẠ VITAMIN BNBG,"['1 miếng xanh biển', '1 miếng Vàng']","[1600000000, 1600000000]",5,Jdbdbdbdbdbdbdbdbdbdbbdbddbbdbdbdbdbdbdbdbdbbdbdbdbdbdbdbdbdb
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1550000000, 1550000000, 1550000000, 1550000000]",5,"Hàng chính hãng, đã mua hàng ở shop rất nhiều lần và luôn hài lòng về chất lượng"
+MẶT NẠ VITAMIN BNBG,"['1 miếng đỏ', '1 miếng xanh biển', '1 miếng Vàng', '1 miếng xanh lá']","[1600000000, 1600000000, 1600000000, 1600000000]",5,"Chưa dùng nên không biết
 "
-['1 miếng Vàng'],[1600000000],5,"Chất lượng sản phẩm tốt, hàng chính hãng,  giao hàng nhanh,  sẽ ủng hộ shop dài dài 👍👍"
-['1 miếng Vàng'],[1650000000],5,Ok
-['1 miếng đỏ'],[1600000000],5,"Shop giao hàng nhanh lắm lun, đặt trưa hôm qua,hôm nay giao rồi.son đẹp lắm lun"
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1600000000],5,"Chất lượng sản phẩm tốt, hàng chính hãng,  giao hàng nhanh,  sẽ ủng hộ shop dài dài 👍👍"
+MẶT NẠ VITAMIN BNBG,['1 miếng Vàng'],[1650000000],5,Ok
+MẶT NẠ VITAMIN BNBG,['1 miếng đỏ'],[1600000000],5,"Shop giao hàng nhanh lắm lun, đặt trưa hôm qua,hôm nay giao rồi.son đẹp lắm lun"
