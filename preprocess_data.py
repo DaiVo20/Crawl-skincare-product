@@ -1,9 +1,7 @@
-from numpy.core.numeric import NaN
 import pandas as pd
 import os
 import glob
 import numpy as np
-import time
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -40,18 +38,14 @@ for i in csv_files:
 
     product = product.to_numpy()
     # Remove 00000 to get true price
-    for j, k in enumerate(product[:, 1]):
-        product[j, 1] = sum([int(int(m)/100000) for m in k.split(", ")])
+    for j, k in enumerate(product[:, 2]):
+        product[j, 2] = sum([int(int(m)/100000) for m in k.split(", ")])
 
     full_data.append(product)
 
 dataset = np.concatenate(full_data)
-combined_csv = pd.DataFrame(data=dataset, columns=[
+combined_csv = pd.DataFrame(data=dataset, columns=["name", 
                             "variations", "price", "rating_star", "comments"])
 
 # export to csv
 combined_csv.to_csv("pre_data.csv", index=False, encoding='utf-8')
-
-# export to txt
-np.savetxt("pre_data.txt", dataset, fmt=[
-           '%s', '%d', '%d', '%s'], delimiter="\t", encoding='utf-8')
