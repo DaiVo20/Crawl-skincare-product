@@ -26,7 +26,7 @@ full_data = []
 for i in csv_files:
     product = pd.read_csv(i)
     print(i)
-
+    product["variations"] = product["variations"].fillna(0)
     for j in range(len(product)):
         # Remove unusual characters
         product["variations"][j] = replace_char(
