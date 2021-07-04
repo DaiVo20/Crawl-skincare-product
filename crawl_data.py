@@ -50,7 +50,7 @@ def crawl_product(n_begin, n_end):
             price.append([item_basic["price_min"], item_basic["price_max"]])
             rating_star.append(item_basic["item_rating"]["rating_star"])
             rating_count.append(
-                item_basic["item_rating"]["rating_count"][1:-1])
+                item_basic["item_rating"]["rating_count"][1:])
 
     col = ["itemid", "shopid", "name", "variations", "brand", "shop_location",
            "view_count", "sold", "rating_star", "rating_count(1* - 5*)", "price"]
