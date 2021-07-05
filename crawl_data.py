@@ -102,10 +102,10 @@ def crawl_rating(itemid, shopid):
 
 if __name__ == "__main__":
     print("PLEASE READ README.md TO CRAWL CORRECTLY PAGE NUMBER!!!")
-    # n_begin = int(input("Enter the first page: "))
-    # n_end = int(input("Enter the last page: "))
-    # products = crawl_product(n_begin, n_end)
-    # products.to_csv("products.csv", index=False)
+    n_begin = int(input("Enter the first page: "))
+    n_end = int(input("Enter the last page: "))
+    products = crawl_product(n_begin, n_end)
+    products.to_csv("products.csv", index=False)
 
     n_b = int(input("Enter the first product: "))
     n_e = int(input("Enter the last product: "))

@@ -26,21 +26,23 @@ full_data = []
 for i in csv_files:
     product = pd.read_csv(i)
     print(i)
-    product["variations"] = product["variations"].fillna(0)
     for j in range(len(product)):
         # Remove unusual characters
         product["variations"][j] = replace_char(
             product["variations"][j], characters)
         product["price"][j] = replace_char(product["price"][j], characters)
-        # if price = Null, delete that row
+        # if price = Null, assign -1
         if(product["price"][j] == ""):
-            product = product.drop(j)
+            product["price"][j] = -1
+
     product = product.dropna(subset=['comment'])
+    product["variations"] = product["variations"].replace("", "0")
 
     product = product.to_numpy()
     # Remove 00000 to get true price
     for j, k in enumerate(product[:, 2]):
-        product[j, 2] = sum([int(int(m)/100000) for m in k.split(", ")])
+        if k != -1:
+            product[j, 2] = sum([int(int(m)/100000) for m in k.split(", ")])
 
     full_data.append(product)
 
