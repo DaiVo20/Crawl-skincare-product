@@ -33,7 +33,7 @@ for i in csv_files:
         product["price"][j] = replace_char(product["price"][j], characters)
         # if price = Null, assign -1
         if(product["price"][j] == ""):
-            product["price"][j] = -1
+            product=product.drop(j)
 
     product = product.dropna(subset=['comment'])
     product["variations"] = product["variations"].replace("", "0")
@@ -41,8 +41,7 @@ for i in csv_files:
     product = product.to_numpy()
     # Remove 00000 to get true price
     for j, k in enumerate(product[:, 2]):
-        if k != -1:
-            product[j, 2] = sum([int(int(m)/100000) for m in k.split(", ")])
+        product[j, 2] = sum([int(int(m)/100000) for m in k.split(", ")])
 
     full_data.append(product)
 
